@@ -131,7 +131,7 @@ ENV/
 *.log
 *.sql
 *.sqlite
-*.pkl
+# *.pkl
 *.pyc
 *.swp
 
@@ -157,4 +157,6 @@ old/
 output*
 *nohup.out
 cs5228/
-*.odt
+*.od
+assignment1.ipynb
+assignment2.ipynb
