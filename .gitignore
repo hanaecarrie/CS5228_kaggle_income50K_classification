@@ -151,12 +151,10 @@ sh.exe.stackdump
 
 
 # ignore data and outputs
-data/
 extra data/
 old/
 output*
 *nohup.out
-cs5228/
 *.od
 assignment1.ipynb
 assignment2.ipynb
