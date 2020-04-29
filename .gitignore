@@ -153,6 +153,7 @@ sh.exe.stackdump
 # ignore data and outputs
 extra data/
 old/
+catboost_info/
 output*
 *nohup.out
 *.od
