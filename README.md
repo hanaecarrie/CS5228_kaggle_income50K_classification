@@ -8,7 +8,10 @@ Our final binary F1-score is 86,946\% on the private leaderboard and we were ran
 # Set up
 
 To clone this github repository, use the following command:
-```$ https://github.com/hanaecarrie/CS5228_kaggle_income50K_classification.git```
+
+``` 
+$ git clone https://github.com/hanaecarrie/CS5228_kaggle_income50K_classification.git 
+```
 
 Make sure you have Python 3.6 or above installed, as well as the following packages:
 - numpy
@@ -49,7 +52,7 @@ Here are some plots from the report to summarise the dataset features and look a
 
 # Results and report
 
-The full report is available [here](https://github.com/hanaecarrie/CS5228_kaggle_income50K_classification/Report.pdf)
+The full report is available [here](https://github.com/hanaecarrie/CS5228_kaggle_income50K_classification/blob/master/Report.pdf)
 
 ![Alt text](figures/table3.png?raw=true "Title")
 
